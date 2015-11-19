@@ -1,0 +1,7 @@
+com\verdicchio\model\WindowTypeOfOpeningEnum.class
+com\verdicchio\impl\InventorySystemClientImpl.class
+com\verdicchio\model\Wall.class
+com\verdicchio\model\Window.class
+com\verdicchio\model\Category.class
+com\verdicchio\model\Item.class
+com\verdicchio\InventorySystemClient.class
